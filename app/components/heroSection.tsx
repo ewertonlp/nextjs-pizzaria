@@ -22,7 +22,7 @@ const Hero = () => {
       <div className="relative z-20 h-full flex items-center justify-center">
         <div className="text-center text-white px-6 max-w-6xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            A melhores Pizzas e Lanches da <span className="text-yellow-300">Cidade</span>
+            As melhores Pizzas e Lanches da <span className="text-yellow-300">Cidade</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto leading-relaxed">
             Feita com ingredientes frescos e massa artesanal. 
